@@ -1,0 +1,13 @@
+{
+  "name": "kitiri-coffee",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "kitri",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "build": "babel src --out-dir dist"
+  }
+}
